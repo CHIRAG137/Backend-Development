@@ -1,0 +1,11 @@
+node index.js
+index.js
+D:/node/path_core_module
+.js
+{
+  root: 'D:/',
+  dir: 'D:/node/path_core_module',
+  base: 'index.js',
+  ext: '.js',
+  name: 'index'
+}

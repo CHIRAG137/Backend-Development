@@ -1,0 +1,14 @@
+node index.js
+x64
+win32
+8311836672
+2418638848
+CHIRAG-GOEL
+{
+  uid: -1,
+  gid: -1,
+  username: 'DELL',
+  homedir: 'C:\\Users\\DELL',
+  shell: null
+}
+Windows_NT
