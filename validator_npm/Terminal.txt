@@ -1,0 +1,25 @@
+Microsoft Windows [Version 10.0.22000.1098]
+(c) Microsoft Corporation. All rights reserved.
+
+D:\node>cd validator_npm
+The system cannot find the path specified.
+
+D:\node>cd validator_npm
+
+D:\node\validator_npm>type nul > validator.js
+
+D:\node\validator_npm>npm i validator
+
+added 1 package, and audited 2 packages in 1s
+
+found 0 vulnerabilities
+
+D:\node\validator_npm>nodemon validator.js
+[nodemon] 2.0.20
+[nodemon] restarting due to changes...
+[nodemon] starting `node validator.mjs`
+true
+false
+true
+false
+[nodemon] clean exit - waiting for changes before restart

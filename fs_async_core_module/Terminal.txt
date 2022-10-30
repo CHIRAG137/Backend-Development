@@ -5,16 +5,12 @@ D:\node>mkdir fs_async_core_module
 
 D:\node>cd fs_async_core_module
 
-D:\node\fs_async_core_module>type nul > index.js
+D:\node\fs_async_core_module>type nul > async.js
 
 D:\node\fs_async_core_module>node async.js
 Task Completed.
 
 D:\node\fs_async_core_module>nodemon async.js
-[nodemon] 2.0.20
-[nodemon] to restart at any time, enter `rs`
-[nodemon] watching path(s): *.*
-[nodemon] watching extensions: js,mjs,json
 [nodemon] starting `node async.js`
 Task Completed.
 [nodemon] clean exit - waiting for changes before restart

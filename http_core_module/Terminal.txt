@@ -1,0 +1,7 @@
+Microsoft Windows [Version 10.0.22000.1098]
+(c) Microsoft Corporation. All rights reserved.
+
+D:\node>cd http_core_module
+
+D:\node\http_core_module>node index.js
+Server is successfully made

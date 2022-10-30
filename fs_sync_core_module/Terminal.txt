@@ -8,14 +8,7 @@ D:\node\fs_core_module>type nul > index.js
 D:\node\fs_core_module>node sync.js
 
 D:\node\fs_core_module>nodemon sync.js
-[nodemon] 2.0.20
-[nodemon] to restart at any time, enter `rs`
-[nodemon] watching path(s): *.*
-[nodemon] watching extensions: js,mjs,json
-[nodemon] starting `node sync.js`
-[nodemon] clean exit - waiting for changes before restart
-[nodemon] restarting due to changes...
-[nodemon] starting `node sync.js`
+
 <Buffer 4d 79 20 6e 61 6d 65 20 69 73 20 43 68 69 72 61 67 20 47 6f 65 6c 2e 20 49 20 61 6d 20 61 20 73 6f 70 68 6f 6d 6f 72 65 20 61 74 20 49 49 49 54 20 52 ... 34 more bytes>
 [nodemon] clean exit - waiting for changes before restart
 [nodemon] restarting due to changes...

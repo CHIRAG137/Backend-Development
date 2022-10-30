@@ -1,0 +1,14 @@
+Microsoft Windows [Version 10.0.22000.1098]
+(c) Microsoft Corporation. All rights reserved.
+
+D:\node>mkdir own_multiple_modules
+
+D:\node>cd own_multiple_modules
+
+D:\node\own_multiple_modules>type nul > index.js
+
+D:\node\own_multiple_modules>type nul > oper.js
+
+D:\node\own_multiple_modules>node index.js
+The sum is 7
+The difference is 3
