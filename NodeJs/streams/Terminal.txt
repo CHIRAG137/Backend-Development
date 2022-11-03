@@ -1,0 +1,17 @@
+Microsoft Windows [Version 10.0.22000.1098]
+(c) Microsoft Corporation. All rights reserved.
+
+D:\Backend\NodeJs>mkdir streams
+
+D:\Backend\NodeJs>cd streams
+
+D:\Backend\NodeJs\streams>type nul > index.js
+
+D:\Backend\NodeJs\streams>type nul > input.txt
+
+D:\Backend\NodeJs\streams>nodemon index.js
+[nodemon] 2.0.20
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): *.*
+[nodemon] watching extensions: js,mjs,json
+[nodemon] starting `node index.js`

@@ -1,0 +1,94 @@
+// IN TERMINAL
+
+Microsoft Windows [Version 10.0.22000.1098]
+(c) Microsoft Corporation. All rights reserved.
+
+// Making a new folder
+D:\Backend\NodeJs>mkdir repl
+
+// Checking the directory details
+D:\Backend\NodeJs>dir
+ Volume in drive D is DATA
+ Volume Serial Number is B65C-A46E
+
+ Directory of D:\Backend\NodeJs
+
+29-10-2022  18:21    <DIR>          .
+29-10-2022  18:21    <DIR>          repl
+               0 File(s)              0 bytes
+               2 Dir(s)  956,940,296,192 bytes free
+
+// Redirecting to newly made folder
+D:\Backend\NodeJs>cd repl
+
+// Making a new file in the folder
+D:\Backend\NodeJs\repl>type nul > index.js
+
+// Running index.js file in terminal
+D:\Backend\NodeJs\repl>node index.js
+My name is Chirag Goel
+
+D:\Backend\NodeJs\repl>dir
+ Volume in drive D is DATA
+ Volume Serial Number is B65C-A46E
+
+ Directory of D:\Backend\NodeJs\repl
+
+29-10-2022  18:22    <DIR>          .
+29-10-2022  18:21    <DIR>          ..
+29-10-2022  18:23                38 index.js
+               1 File(s)             38 bytes
+               2 Dir(s)  956,940,296,192 bytes free
+
+// Entering the REPL mode
+D:\Backend\NodeJs\repl>node
+Welcome to Node.js v16.15.0.
+Type ".help" for more information.
+> .help
+.break    Sometimes you get stuck, this gets you out
+.clear    Alias for .break
+.editor   Enter editor mode
+.exit     Exit the REPL
+.help     Print this help message
+.load     Load JS from a file into the REPL session
+.save     Save all evaluated commands in this REPL session to a file
+
+Press Ctrl+C to abort current expression, Ctrl+D to exit the REPL
+> .exit
+
+D:\Backend\NodeJs\repl>node
+Welcome to Node.js v16.15.0.
+Type ".help" for more information.
+> .help
+.break    Sometimes you get stuck, this gets you out
+.clear    Alias for .break
+.editor   Enter editor mode
+.exit     Exit the REPL
+.help     Print this help message
+.load     Load JS from a file into the REPL session
+.save     Save all evaluated commands in this REPL session to a file
+
+// Performing operations in REPL mode
+Press Ctrl+C to abort current expression, Ctrl+D to exit the REPL
+> 3+3
+6
+> 6/2
+3
+> 4/4
+1
+> 0/4
+0
+> 7/0
+Infinity
+> var a="Chirag";
+undefined
+> a;
+'Chirag'
+
+// Using editor mode
+> .editor
+// Entering editor mode (Ctrl+D to finish, Ctrl+C to cancel)
+const name="My name is Chirag"
+undefined
+> name;
+'My name is Chirag'

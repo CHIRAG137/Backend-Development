@@ -1,0 +1,13 @@
+Microsoft Windows [Version 10.0.22000.1098]
+(c) Microsoft Corporation. All rights reserved.
+
+D:\Backend\NodeJs>mkdir own_modules
+
+D:\Backend\NodeJs>cd own_modules
+
+D:\Backend\NodeJs\own_modules>type nul > index.js
+
+D:\Backend\NodeJs\own_modules>type nul > oper.js
+
+D:\Backend\NodeJs\own_modules>node index.js
+The sum is 13

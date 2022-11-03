@@ -1,0 +1,21 @@
+
+D:\Backend\ExpressJs>mkdir json_data
+
+D:\Backend\ExpressJs>cd json_data
+
+D:\Backend\ExpressJs\json_data>type nul > index.js
+
+D:\Backend\ExpressJs\json_data>npm i express
+
+added 57 packages, and audited 58 packages in 6s
+
+found 0 vulnerabilities
+
+D:\Backend\ExpressJs\json_data>nodemon index.js
+[nodemon] 2.0.20
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): *.*
+[nodemon] watching extensions: js,mjs,json
+[nodemon] starting `node index.js`
+
+Sent JSON Data

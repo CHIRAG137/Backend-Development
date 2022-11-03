@@ -1,0 +1,25 @@
+Microsoft Windows [Version 10.0.22000.1098]
+(c) Microsoft Corporation. All rights reserved.
+
+D:\Backend\ExpressJs>mkdir html_data  
+
+D:\Backend\ExpressJs>type nul > index.js
+
+D:\Backend\ExpressJs>cd html_data
+
+D:\Backend\ExpressJs\html_data>type nul > index.js
+
+D:\Backend\ExpressJs\html_data>npm i express
+
+added 57 packages, and audited 58 packages in 6s
+
+found 0 vulnerabilities
+
+D:\Backend\ExpressJs\html_data>nodemon index.js    
+[nodemon] 2.0.20
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): *.*
+[nodemon] watching extensions: js,mjs,json
+[nodemon] starting `node index.js`
+
+Sent HTML Data

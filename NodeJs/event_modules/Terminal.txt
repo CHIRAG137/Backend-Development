@@ -1,0 +1,35 @@
+// Single callback function
+Microsoft Windows [Version 10.0.22000.1098]
+(c) Microsoft Corporation. All rights reserved.
+
+D:\Backend\NodeJs>mkdir event_modules
+
+D:\Backend\NodeJs>cd event_modules
+
+D:\Backend\NodeJs\event_modules>type nul > single.js
+
+D:\Backend\NodeJs\event_modules>node single.js 
+My name is Chirag Goel
+
+
+// Multiple callback functions
+Microsoft Windows [Version 10.0.22000.1098]
+(c) Microsoft Corporation. All rights reserved.
+
+D:\Backend\NodeJs\event_modules>type nul > multiple.js
+
+D:\Backend\NodeJs\event_modules>node multiple.js
+My name is Chirag Goel
+I am a sophomore at IIIT Ranchi
+
+
+// Callback function with parameters
+Microsoft Windows [Version 10.0.22000.1098]
+(c) Microsoft Corporation. All rights reserved.
+
+D:\Backend\NodeJs\event_modules>type nul > parameter.js
+
+D:\Backend\NodeJs\event_modules>node parameter.js
+The status code is 200 and message is ok done
+
+D:\Backend\NodeJs\event_modules>
