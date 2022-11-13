@@ -1,7 +1,3 @@
-What is REPL?
-R stands for read operation, E stands for evaluating the data structure operation, P stands for printing operation and L stands for looping operation. The shell reads JavaScript code the user enters, evaluates the result of interpreting the line of code, prints the result to the user, and loops until the user signals to quit.
-
-
 // IN TERMINAL
 
 Microsoft Windows [Version 10.0.22000.1098]

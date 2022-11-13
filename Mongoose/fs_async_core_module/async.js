@@ -22,5 +22,3 @@ fs.readFile('read.txt',"utf-8",(err,data)=>{
  console.log(data);
  console.log(err);
 });
-
-// Deleting operations similar to sync file module

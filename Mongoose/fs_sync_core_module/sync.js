@@ -22,7 +22,7 @@ console.log(data3.toString());
 // Renaming the file name
 fs.renameSync('read.txt','after_rename.txt');
 
-// Deleting the file
+// DEleting the file
 fs.unlinkSync('<file_name>');
 
 // Folder delete

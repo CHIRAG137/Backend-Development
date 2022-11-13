@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "chalk-animation": "^2.0.3"
+  },
+  "name": "chalk_npm",
+  "version": "1.0.0",
+  "description": "This is NPM - Node Package Manager Folder.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

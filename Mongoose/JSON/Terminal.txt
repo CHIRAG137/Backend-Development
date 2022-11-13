@@ -1,0 +1,17 @@
+Microsoft Windows [Version 10.0.22000.1098]
+(c) Microsoft Corporation. All rights reserved.
+
+D:\Backend\NodeJs>cd JSON
+
+D:\Backend\NodeJs\JSON>node index.js
+
+D:\Backend\NodeJs\JSON>nodemon index.js 
+[nodemon] 2.0.20
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): *.*
+[nodemon] watching extensions: js,mjs,json
+[nodemon] starting `node index.js`
+
+{"name":"Chirag","age":20,"college":"IIITR"}
+{ name: 'Chirag', age: 20, college: 'IIITR' }
+[nodemon] clean exit - waiting for changes before restart

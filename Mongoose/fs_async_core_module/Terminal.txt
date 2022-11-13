@@ -1,6 +1,3 @@
-fs is the inbuilt core module of nodejs to perform file operations. Asynchronous operation means that the line of code that takes less time will be executed first.
-
-
 Microsoft Windows [Version 10.0.22000.1098]
 (c) Microsoft Corporation. All rights reserved.
 
